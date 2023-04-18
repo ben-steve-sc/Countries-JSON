@@ -1,0 +1,1572 @@
+{
+    "countries": [
+        {
+            "name": "Afghanistan",
+            "nationality": "Afghan",
+            "alpha_2_code": "AF",
+            "alpha_3_code": "AFG",
+            "phone_code": "+93"
+        },
+        {
+            "name": "Albania",
+            "nationality": "Albanian",
+            "alpha_2_code": "AL",
+            "alpha_3_code": "ALB",
+            "phone_code": "+355"
+        },
+        {
+            "name": "Algeria",
+            "nationality": "Algerian",
+            "alpha_2_code": "DZ",
+            "alpha_3_code": "DZA",
+            "phone_code": "+213"
+        },
+        {
+            "name": "Andorra",
+            "nationality": "Andorran",
+            "alpha_2_code": "AD",
+            "alpha_3_code": "AND",
+            "phone_code": "+376"
+        },
+        {
+            "name": "Angola",
+            "nationality": "Angolan",
+            "alpha_2_code": "AO",
+            "alpha_3_code": "AGO",
+            "phone_code": "+244"
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "nationality": "Antiguan, Barbudan",
+            "alpha_2_code": "AG",
+            "alpha_3_code": "ATG",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Argentina",
+            "nationality": "Argentinian",
+            "alpha_2_code": "AR",
+            "alpha_3_code": "ARG",
+            "phone_code": "+54"
+        },
+        {
+            "name": "Armenia",
+            "nationality": "Armenian",
+            "alpha_2_code": "AM",
+            "alpha_3_code": "ARM",
+            "phone_code": "+374"
+        },
+        {
+            "name": "Australia",
+            "nationality": "Australian",
+            "alpha_2_code": "AU",
+            "alpha_3_code": "AUS",
+            "phone_code": "+61"
+        },
+        {
+            "name": "Austria",
+            "nationality": "Austrian",
+            "alpha_2_code": "AT",
+            "alpha_3_code": "AUT",
+            "phone_code": "+43"
+        },
+        {
+            "name": "Azerbaijan",
+            "nationality": "Azerbaijani",
+            "alpha_2_code": "AZ",
+            "alpha_3_code": "AZE",
+            "phone_code": "+994"
+        },
+        {
+            "name": "Bahamas",
+            "nationality": "Bahamian",
+            "alpha_2_code": "BS",
+            "alpha_3_code": "BHS",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Bahrain",
+            "nationality": "Bahraini",
+            "alpha_2_code": "BH",
+            "alpha_3_code": "BHR",
+            "phone_code": "+973"
+        },
+        {
+            "name": "Bangladesh",
+            "nationality": "Bangladeshi",
+            "alpha_2_code": "BD",
+            "alpha_3_code": "BGD",
+            "phone_code": "+880"
+        },
+        {
+            "name": "Barbados",
+            "nationality": "Barbadian",
+            "alpha_2_code": "BB",
+            "alpha_3_code": "BRB",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Belarus",
+            "nationality": "Belarusian",
+            "alpha_2_code": "BY",
+            "alpha_3_code": "BLR",
+            "phone_code": "+375"
+        },
+        {
+            "name": "Belgium",
+            "nationality": "Belgian",
+            "alpha_2_code": "BE",
+            "alpha_3_code": "BEL",
+            "phone_code": "+32"
+        },
+        {
+            "name": "Belize",
+            "nationality": "Belizean",
+            "alpha_2_code": "BZ",
+            "alpha_3_code": "BLZ",
+            "phone_code": "+501"
+        },
+        {
+            "name": "Benin",
+            "nationality": "Beninese",
+            "alpha_2_code": "BJ",
+            "alpha_3_code": "BEN",
+            "phone_code": "+229"
+        },
+        {
+            "name": "Bhutan",
+            "nationality": "Bhutanese",
+            "alpha_2_code": "BT",
+            "alpha_3_code": "BTN",
+            "phone_code": "+975"
+        },
+        {
+            "name": "Bolivia",
+            "nationality": "Bolivian",
+            "alpha_2_code": "BO",
+            "alpha_3_code": "BOL",
+            "phone_code": "+591"
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "nationality": "Bosnian, Herzegovinian",
+            "alpha_2_code": "BA",
+            "alpha_3_code": "BIH",
+            "phone_code": "+387"
+        },
+        {
+            "name": "Botswana",
+            "nationality": "Botswanan",
+            "alpha_2_code": "BW",
+            "alpha_3_code": "BWA",
+            "phone_code": "+267"
+        },
+        {
+            "name": "Brazil",
+            "nationality": "Brazilian",
+            "alpha_2_code": "BR",
+            "alpha_3_code": "BRA",
+            "phone_code": "+55"
+        },
+        {
+            "name": "Brunei",
+            "nationality": "Bruneian",
+            "alpha_2_code": "BN",
+            "alpha_3_code": "BRN",
+            "phone_code": "+673"
+        },
+        {
+            "name": "Bulgaria",
+            "nationality": "Bulgarian",
+            "alpha_2_code": "BG",
+            "alpha_3_code": "BGR",
+            "phone_code": "+359"
+        },
+        {
+            "name": "Burkina Faso",
+            "nationality": "Burkinabe",
+            "alpha_2_code": "BF",
+            "alpha_3_code": "BFA",
+            "phone_code": "+226"
+        },
+        {
+            "name": "Burundi",
+            "nationality": "Burundian",
+            "alpha_2_code": "BI",
+            "alpha_3_code": "BDI",
+            "phone_code": "+257"
+        },
+        {
+            "name": "Cabo Verde",
+            "nationality": "Cape Verdean",
+            "alpha_2_code": "CV",
+            "alpha_3_code": "CPV",
+            "phone_code": "+238"
+        },
+        {
+            "name": "Cambodia",
+            "nationality": "Cambodian",
+            "alpha_2_code": "KH",
+            "alpha_3_code": "KHM",
+            "phone_code": "+855"
+        },
+        {
+            "name": "Cameroon",
+            "nationality": "Cameroonian",
+            "alpha_2_code": "CM",
+            "alpha_3_code": "CMR",
+            "phone_code": "+237"
+        },
+        {
+            "name": "Canada",
+            "nationality": "Canadian",
+            "alpha_2_code": "CA",
+            "alpha_3_code": "CAN",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Central African Republic",
+            "nationality": "Central African",
+            "alpha_2_code": "CF",
+            "alpha_3_code": "CAF",
+            "phone_code": "+236"
+        },
+        {
+            "name": "Chad",
+            "nationality": "Chadian",
+            "alpha_2_code": "TD",
+            "alpha_3_code": "TCD",
+            "phone_code": "+235"
+        },
+        {
+            "name": "Chile",
+            "nationality": "Chilean",
+            "alpha_2_code": "CL",
+            "alpha_3_code": "CHL",
+            "phone_code": "+56"
+        },
+        {
+            "name": "China",
+            "nationality": "Chinese",
+            "alpha_2_code": "CN",
+            "alpha_3_code": "CHN",
+            "phone_code": "+86"
+        },
+        {
+            "name": "Colombia",
+            "nationality": "Colombian",
+            "alpha_2_code": "CO",
+            "alpha_3_code": "COL",
+            "phone_code": "+57"
+        },
+        {
+            "name": "Comoros",
+            "nationality": "Comoran, Comorian",
+            "alpha_2_code": "KM",
+            "alpha_3_code": "COM",
+            "phone_code": "+269"
+        },
+        {
+            "name": "Congo (Brazzaville)",
+            "nationality": "Congolese",
+            "alpha_2_code": "CG",
+            "alpha_3_code": "COG",
+            "phone_code": "+242"
+        },
+        {
+            "name": "Congo (Kinshasa)",
+            "nationality": "Congolese",
+            "alpha_2_code": "CD",
+            "alpha_3_code": "COD",
+            "phone_code": "+243"
+        },
+        {
+            "name": "Costa Rica",
+            "nationality": "Costa Rican",
+            "alpha_2_code": "CR",
+            "alpha_3_code": "CRI",
+            "phone_code": "+506"
+        },
+        {
+            "name": "Croatia",
+            "nationality": "Croatian",
+            "alpha_2_code": "HR",
+            "alpha_3_code": "HRV",
+            "phone_code": "+385"
+        },
+        {
+            "name": "Cuba",
+            "nationality": "Cuban",
+            "alpha_2_code": "CU",
+            "alpha_3_code": "CUB",
+            "phone_code": "+53"
+        },
+        {
+            "name": "Cyprus",
+            "nationality": "Cypriot",
+            "alpha_2_code": "CY",
+            "alpha_3_code": "CYP",
+            "phone_code": "+357"
+        },
+        {
+            "name": "Czech Republic",
+            "nationality": "Czech",
+            "alpha_2_code": "CZ",
+            "alpha_3_code": "CZE",
+            "phone_code": "+420"
+        },
+        {
+            "name": "Côte d'Ivoire",
+            "nationality": "Ivorian",
+            "alpha_2_code": "CI",
+            "alpha_3_code": "CIV",
+            "phone_code": "+225"
+        },
+        {
+            "name": "Denmark",
+            "nationality": "Danish",
+            "alpha_2_code": "DK",
+            "alpha_3_code": "DNK",
+            "phone_code": "+45"
+        },
+        {
+            "name": "Djibouti",
+            "nationality": "Djiboutian",
+            "alpha_2_code": "DJ",
+            "alpha_3_code": "DJI",
+            "phone_code": "+253"
+        },
+        {
+            "name": "Dominica",
+            "nationality": "Dominican",
+            "alpha_2_code": "DM",
+            "alpha_3_code": "DMA",
+            "phone_code": "+1-767"
+        },
+        {
+            "name": "Dominican Republic",
+            "nationality": "Dominican",
+            "alpha_2_code": "DO",
+            "alpha_3_code": "DOM",
+            "phone_code": "+1-809, +1-829, +1-849"
+        },
+        {
+            "name": "Ecuador",
+            "nationality": "Ecuadorian",
+            "alpha_2_code": "EC",
+            "alpha_3_code": "ECU",
+            "phone_code": "+593"
+        },
+        {
+            "name": "Egypt",
+            "nationality": "Egyptian",
+            "alpha_2_code": "EG",
+            "alpha_3_code": "EGY",
+            "phone_code": "+20"
+        },
+        {
+            "name": "El Salvador",
+            "nationality": "Salvadoran",
+            "alpha_2_code": "SV",
+            "alpha_3_code": "SLV",
+            "phone_code": "+503"
+        },
+        {
+            "name": "Equatorial Guinea",
+            "nationality": "Equatorial Guinean",
+            "alpha_2_code": "GQ",
+            "alpha_3_code": "GNQ",
+            "phone_code": "+240"
+        },
+        {
+            "name": "Eritrea",
+            "nationality": "Eritrean",
+            "alpha_2_code": "ER",
+            "alpha_3_code": "ERI",
+            "phone_code": "+291"
+        },
+        {
+            "name": "Estonia",
+            "nationality": "Estonian",
+            "alpha_2_code": "EE",
+            "alpha_3_code": "EST",
+            "phone_code": "+372"
+        },
+        {
+            "name": "Eswatini",
+            "nationality": "Swazi",
+            "alpha_2_code": "SZ",
+            "alpha_3_code": "SWZ",
+            "phone_code": "+268"
+        },
+        {
+            "name": "Ethiopia",
+            "nationality": "Ethiopian",
+            "alpha_2_code": "ET",
+            "alpha_3_code": "ETH",
+            "phone_code": "+251"
+        },
+        {
+            "name": "Fiji",
+            "nationality": "Fijian",
+            "alpha_2_code": "FJ",
+            "alpha_3_code": "FJI",
+            "phone_code": "+679"
+        },
+        {
+            "name": "Finland",
+            "nationality": "Finnish",
+            "alpha_2_code": "FI",
+            "alpha_3_code": "FIN",
+            "phone_code": "+358"
+        },
+        {
+            "name": "France",
+            "nationality": "French",
+            "alpha_2_code": "FR",
+            "alpha_3_code": "FRA",
+            "phone_code": "+33"
+        },
+        {
+            "name": "Gabon",
+            "nationality": "Gabonese",
+            "alpha_2_code": "GA",
+            "alpha_3_code": "GAB",
+            "phone_code": "+241"
+        },
+        {
+            "name": "Gambia",
+            "nationality": "Gambian",
+            "alpha_2_code": "GM",
+            "alpha_3_code": "GMB",
+            "phone_code": "+220"
+        },
+        {
+            "name": "Georgia",
+            "nationality": "Georgian",
+            "alpha_2_code": "GE",
+            "alpha_3_code": "GEO",
+            "phone_code": "+995"
+        },
+        {
+            "name": "Germany",
+            "nationality": "German",
+            "alpha_2_code": "DE",
+            "alpha_3_code": "DEU",
+            "phone_code": "+49"
+        },
+        {
+            "name": "Ghana",
+            "nationality": "Ghanaian",
+            "alpha_2_code": "GH",
+            "alpha_3_code": "GHA",
+            "phone_code": "+233"
+        },
+        {
+            "name": "Greece",
+            "nationality": "Greek",
+            "alpha_2_code": "GR",
+            "alpha_3_code": "GRC",
+            "phone_code": "+30"
+        },
+        {
+            "name": "Grenada",
+            "nationality": "Grenadian",
+            "alpha_2_code": "GD",
+            "alpha_3_code": "GRD",
+            "phone_code": "+1-473"
+        },
+        {
+            "name": "Guatemala",
+            "nationality": "Guatemalan",
+            "alpha_2_code": "GT",
+            "alpha_3_code": "GTM",
+            "phone_code": "+502"
+        },
+        {
+            "name": "Guinea",
+            "nationality": "Guinean",
+            "alpha_2_code": "GN",
+            "alpha_3_code": "GIN",
+            "phone_code": "+224"
+        },
+        {
+            "name": "Guinea-Bissau",
+            "nationality": "Bissau-Guinean",
+            "alpha_2_code": "GW",
+            "alpha_3_code": "GNB",
+            "phone_code": "+245"
+        },
+        {
+            "name": "Guyana",
+            "nationality": "Guyanese",
+            "alpha_2_code": "GY",
+            "alpha_3_code": "GUY",
+            "phone_code": "+592"
+        },
+        {
+            "name": "Haiti",
+            "nationality": "Haitian",
+            "alpha_2_code": "HT",
+            "alpha_3_code": "HTI",
+            "phone_code": "+509"
+        },
+        {
+            "name": "Honduras",
+            "nationality": "Honduran",
+            "alpha_2_code": "HN",
+            "alpha_3_code": "HND",
+            "phone_code": "+504"
+        },
+        {
+            "name": "Hungary",
+            "nationality": "Hungarian",
+            "alpha_2_code": "HU",
+            "alpha_3_code": "HUN",
+            "phone_code": "+36"
+        },
+        {
+            "name": "Iceland",
+            "nationality": "Icelandic",
+            "alpha_2_code": "IS",
+            "alpha_3_code": "ISL",
+            "phone_code": "+354"
+        },
+        {
+            "name": "India",
+            "nationality": "Indian",
+            "alpha_2_code": "IN",
+            "alpha_3_code": "IND",
+            "phone_code": "+91"
+        },
+        {
+            "name": "Indonesia",
+            "nationality": "Indonesian",
+            "alpha_2_code": "ID",
+            "alpha_3_code": "IDN",
+            "phone_code": "+62"
+        },
+        {
+            "name": "Iran",
+            "nationality": "Iranian",
+            "alpha_2_code": "IR",
+            "alpha_3_code": "IRN",
+            "phone_code": "+98"
+        },
+        {
+            "name": "Iraq",
+            "nationality": "Iraqi",
+            "alpha_2_code": "IQ",
+            "alpha_3_code": "IRQ",
+            "phone_code": "+964"
+        },
+        {
+            "name": "Ireland",
+            "nationality": "Irish",
+            "alpha_2_code": "IE",
+            "alpha_3_code": "IRL",
+            "phone_code": "+353"
+        },
+        {
+            "name": "Israel",
+            "nationality": "Israeli",
+            "alpha_2_code": "IL",
+            "alpha_3_code": "ISR",
+            "phone_code": "+972"
+        },
+        {
+            "name": "Italy",
+            "nationality": "Italian",
+            "alpha_2_code": "IT",
+            "alpha_3_code": "ITA",
+            "phone_code": "+39"
+        },
+        {
+            "name": "Jamaica",
+            "nationality": "Jamaican",
+            "alpha_2_code": "JM",
+            "alpha_3_code": "JAM",
+            "phone_code": "+1-876"
+        },
+        {
+            "name": "Japan",
+            "nationality": "Japanese",
+            "alpha_2_code": "JP",
+            "alpha_3_code": "JPN",
+            "phone_code": "+81"
+        },
+        {
+            "name": "Jordan",
+            "nationality": "Jordanian",
+            "alpha_2_code": "JO",
+            "alpha_3_code": "JOR",
+            "phone_code": "+962"
+        },
+        {
+            "name": "Kazakhstan",
+            "nationality": "Kazakhstani",
+            "alpha_2_code": "KZ",
+            "alpha_3_code": "KAZ",
+            "phone_code": "+7"
+        },
+        {
+            "name": "Kenya",
+            "nationality": "Kenyan",
+            "alpha_2_code": "KE",
+            "alpha_3_code": "KEN",
+            "phone_code": "+254"
+        },
+        {
+            "name": "Kiribati",
+            "nationality": "I-Kiribati",
+            "alpha_2_code": "KI",
+            "alpha_3_code": "KIR",
+            "phone_code": "+686"
+        },
+        {
+            "name": "Korea (North)",
+            "nationality": "North Korean",
+            "alpha_2_code": "KP",
+            "alpha_3_code": "PRK",
+            "phone_code": "+850"
+        },
+        {
+            "name": "Korea (South)",
+            "nationality": "South Korean",
+            "alpha_2_code": "KR",
+            "alpha_3_code": "KOR",
+            "phone_code": "+82"
+        },
+        {
+            "name": "Kosovo",
+            "nationality": "Kosovar",
+            "alpha_2_code": "XK",
+            "alpha_3_code": "XKX",
+            "phone_code": "+383"
+        },
+        {
+            "name": "Kuwait",
+            "nationality": "Kuwaiti",
+            "alpha_2_code": "KW",
+            "alpha_3_code": "KWT",
+            "phone_code": "+965"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "nationality": "Kyrgyzstani",
+            "alpha_2_code": "KG",
+            "alpha_3_code": "KGZ",
+            "phone_code": "+996"
+        },
+        {
+            "name": "Laos",
+            "nationality": "Laotian",
+            "alpha_2_code": "LA",
+            "alpha_3_code": "LAO",
+            "phone_code": "+856"
+        },
+        {
+            "name": "Latvia",
+            "nationality": "Latvian",
+            "alpha_2_code": "LV",
+            "alpha_3_code": "LVA",
+            "phone_code": "+371"
+        },
+        {
+            "name": "Lebanon",
+            "nationality": "Lebanese",
+            "alpha_2_code": "LB",
+            "alpha_3_code": "LBN",
+            "phone_code": "+961"
+        },
+        {
+            "name": "Lesotho",
+            "nationality": "Mosotho",
+            "alpha_2_code": "LS",
+            "alpha_3_code": "LSO",
+            "phone_code": "+266"
+        },
+        {
+            "name": "Liberia",
+            "nationality": "Liberian",
+            "alpha_2_code": "LR",
+            "alpha_3_code": "LBR",
+            "phone_code": "+231"
+        },
+        {
+            "name": "Libya",
+            "nationality": "Libyan",
+            "alpha_2_code": "LY",
+            "alpha_3_code": "LBY",
+            "phone_code": "+218"
+        },
+        {
+            "name": "Liechtenstein",
+            "nationality": "Liechtensteiner",
+            "alpha_2_code": "LI",
+            "alpha_3_code": "LIE",
+            "phone_code": "+423"
+        },
+        {
+            "name": "Lithuania",
+            "nationality": "Lithuanian",
+            "alpha_2_code": "LT",
+            "alpha_3_code": "LTU",
+            "phone_code": "+370"
+        },
+        {
+            "name": "Luxembourg",
+            "nationality": "Luxembourger",
+            "alpha_2_code": "LU",
+            "alpha_3_code": "LUX",
+            "phone_code": "+352"
+        },
+        {
+            "name": "Macao",
+            "nationality": "Macanese",
+            "alpha_2_code": "MO",
+            "alpha_3_code": "MAC",
+            "phone_code": "+853"
+        },
+        {
+            "name": "Macedonia (North)",
+            "nationality": "North Macedonian",
+            "alpha_2_code": "MK",
+            "alpha_3_code": "MKD",
+            "phone_code": "+389"
+        },
+        {
+            "name": "Madagascar",
+            "nationality": "Malagasy",
+            "alpha_2_code": "MG",
+            "alpha_3_code": "MDG",
+            "phone_code": "+261"
+        },
+        {
+            "name": "Malawi",
+            "nationality": "Malawian",
+            "alpha_2_code": "MW",
+            "alpha_3_code": "MWI",
+            "phone_code": "+265"
+        },
+        {
+            "name": "Malaysia",
+            "nationality": "Malaysian",
+            "alpha_2_code": "MY",
+            "alpha_3_code": "MYS",
+            "phone_code": "+60"
+        },
+        {
+            "name": "Maldives",
+            "nationality": "Maldivian",
+            "alpha_2_code": "MV",
+            "alpha_3_code": "MDV",
+            "phone_code": "+960"
+        },
+        {
+            "name": "Mali",
+            "nationality": "Malian",
+            "alpha_2_code": "ML",
+            "alpha_3_code": "MLI",
+            "phone_code": "+223"
+        },
+        {
+            "name": "Malta",
+            "nationality": "Maltese",
+            "alpha_2_code": "MT",
+            "alpha_3_code": "MLT",
+            "phone_code": "+356"
+        },
+        {
+            "name": "Marshall Islands",
+            "nationality": "Marshallese",
+            "alpha_2_code": "MH",
+            "alpha_3_code": "MHL",
+            "phone_code": "+692"
+        },
+        {
+            "name": "Martinique",
+            "nationality": "Martinican",
+            "alpha_2_code": "MQ",
+            "alpha_3_code": "MTQ",
+            "phone_code": "+596"
+        },
+        {
+            "name": "Mauritania",
+            "nationality": "Mauritanian",
+            "alpha_2_code": "MR",
+            "alpha_3_code": "MRT",
+            "phone_code": "+222"
+        },
+        {
+            "name": "Mauritius",
+            "nationality": "Mauritian",
+            "alpha_2_code": "MU",
+            "alpha_3_code": "MUS",
+            "phone_code": "+230"
+        },
+        {
+            "name": "Mayotte",
+            "nationality": "Mahoran",
+            "alpha_2_code": "YT",
+            "alpha_3_code": "MYT",
+            "phone_code": "+262"
+        },
+        {
+            "name": "Mexico",
+            "nationality": "Mexican",
+            "alpha_2_code": "MX",
+            "alpha_3_code": "MEX",
+            "phone_code": "+52"
+        },
+        {
+            "name": "Micronesia",
+            "nationality": "Micronesian",
+            "alpha_2_code": "FM",
+            "alpha_3_code": "FSM",
+            "phone_code": "+691"
+        },
+        {
+            "name": "Moldova",
+            "nationality": "Moldovan",
+            "alpha_2_code": "MD",
+            "alpha_3_code": "MDA",
+            "phone_code": "+373"
+        },
+        {
+            "name": "Monaco",
+            "nationality": "Monegasque",
+            "alpha_2_code": "MC",
+            "alpha_3_code": "MCO",
+            "phone_code": "+377"
+        },
+        {
+            "name": "Mongolia",
+            "nationality": "Mongolian",
+            "alpha_2_code": "MN",
+            "alpha_3_code": "MNG",
+            "phone_code": "+976"
+        },
+        {
+            "name": "Montenegro",
+            "nationality": "Montenegrin",
+            "alpha_2_code": "ME",
+            "alpha_3_code": "MNE",
+            "phone_code": "+382"
+        },
+        {
+            "name": "Montserrat",
+            "nationality": "Montserratian",
+            "alpha_2_code": "MS",
+            "alpha_3_code": "MSR",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Morocco",
+            "nationality": "Moroccan",
+            "alpha_2_code": "MA",
+            "alpha_3_code": "MAR",
+            "phone_code": "+212"
+        },
+        {
+            "name": "Mozambique",
+            "nationality": "Mozambican",
+            "alpha_2_code": "MZ",
+            "alpha_3_code": "MOZ",
+            "phone_code": "+258"
+        },
+        {
+            "name": "Myanmar",
+            "nationality": "Myanmarian",
+            "alpha_2_code": "MM",
+            "alpha_3_code": "MMR",
+            "phone_code": "+95"
+        },
+        {
+            "name": "Namibia",
+            "nationality": "Namibian",
+            "alpha_2_code": "NA",
+            "alpha_3_code": "NAM",
+            "phone_code": "+264"
+        },
+        {
+            "name": "Nauru",
+            "nationality": "Nauruan",
+            "alpha_2_code": "NR",
+            "alpha_3_code": "NRU",
+            "phone_code": "+674"
+        },
+        {
+            "name": "Nepal",
+            "nationality": "Nepalese",
+            "alpha_2_code": "NP",
+            "alpha_3_code": "NPL",
+            "phone_code": "+977"
+        },
+        {
+            "name": "Netherlands",
+            "nationality": "Dutch",
+            "alpha_2_code": "NL",
+            "alpha_3_code": "NLD",
+            "phone_code": "+31"
+        },
+        {
+            "name": "New Caledonia",
+            "nationality": "New Caledonian",
+            "alpha_2_code": "NC",
+            "alpha_3_code": "NCL",
+            "phone_code": "+687"
+        },
+        {
+            "name": "New Zealand",
+            "nationality": "New Zealander",
+            "alpha_2_code": "NZ",
+            "alpha_3_code": "NZL",
+            "phone_code": "+64"
+        },
+        {
+            "name": "Nicaragua",
+            "nationality": "Nicaraguan",
+            "alpha_2_code": "NI",
+            "alpha_3_code": "NIC",
+            "phone_code": "+505"
+        },
+        {
+            "name": "Niger",
+            "nationality": "Nigerien",
+            "alpha_2_code": "NE",
+            "alpha_3_code": "NER",
+            "phone_code": "+227"
+        },
+        {
+            "name": "Nigeria",
+            "nationality": "Nigerian",
+            "alpha_2_code": "NG",
+            "alpha_3_code": "NGA",
+            "phone_code": "+234"
+        },
+        {
+            "name": "Niue",
+            "nationality": "Niuean",
+            "alpha_2_code": "NU",
+            "alpha_3_code": "NIU",
+            "phone_code": "+683"
+        },
+        {
+            "name": "Norfolk Island",
+            "nationality": "Norfolk Islander",
+            "alpha_2_code": "NF",
+            "alpha_3_code": "NFK",
+            "phone_code": "+672"
+        },
+        {
+            "name": "North Korea",
+            "nationality": "North Korean",
+            "alpha_2_code": "KP",
+            "alpha_3_code": "PRK",
+            "phone_code": "+850"
+        },
+        {
+            "name": "North Macedonia",
+            "nationality": "North Macedonian",
+            "alpha_2_code": "MK",
+            "alpha_3_code": "MKD",
+            "phone_code": "+389"
+        },
+        {
+            "name": "Northern Mariana Islands",
+            "nationality": "Northern Marianan",
+            "alpha_2_code": "MP",
+            "alpha_3_code": "MNP",
+            "phone_code": "+1-670"
+        },
+        {
+            "name": "Norway",
+            "nationality": "Norwegian",
+            "alpha_2_code": "NO",
+            "alpha_3_code": "NOR",
+            "phone_code": "+47"
+        },
+        {
+            "name": "Oman",
+            "nationality": "Omani",
+            "alpha_2_code": "OM",
+            "alpha_3_code": "OMN",
+            "phone_code": "+968"
+        },
+        {
+            "name": "Pakistan",
+            "nationality": "Pakistani",
+            "alpha_2_code": "PK",
+            "alpha_3_code": "PAK",
+            "phone_code": "+92"
+        },
+        {
+            "name": "Palau",
+            "nationality": "Palauan",
+            "alpha_2_code": "PW",
+            "alpha_3_code": "PLW",
+            "phone_code": "+680"
+        },
+        {
+            "name": "Panama",
+            "nationality": "Panamanian",
+            "alpha_2_code": "PA",
+            "alpha_3_code": "PAN",
+            "phone_code": "+507"
+        },
+        {
+            "name": "Papua New Guinea",
+            "nationality": "Papua New Guinean",
+            "alpha_2_code": "PG",
+            "alpha_3_code": "PNG",
+            "phone_code": "+675"
+        },
+        {
+            "name": "Paraguay",
+            "nationality": "Paraguayan",
+            "alpha_2_code": "PY",
+            "alpha_3_code": "PRY",
+            "phone_code": "+595"
+        },
+        {
+            "name": "Peru",
+            "nationality": "Peruvian",
+            "alpha_2_code": "PE",
+            "alpha_3_code": "PER",
+            "phone_code": "+51"
+        },
+        {
+            "name": "Philippines",
+            "nationality": "Filipino",
+            "alpha_2_code": "PH",
+            "alpha_3_code": "PHL",
+            "phone_code": "+63"
+        },
+        {
+            "name": "Pitcairn Islands",
+            "nationality": "Pitcairn Islander",
+            "alpha_2_code": "PN",
+            "alpha_3_code": "PCN",
+            "phone_code": "+64"
+        },
+        {
+            "name": "Poland",
+            "nationality": "Polish",
+            "alpha_2_code": "PL",
+            "alpha_3_code": "POL",
+            "phone_code": "+48"
+        },
+        {
+            "name": "Portugal",
+            "nationality": "Portuguese",
+            "alpha_2_code": "PT",
+            "alpha_3_code": "PRT",
+            "phone_code": "+351"
+        },
+        {
+            "name": "Puerto Rico",
+            "nationality": "Puerto Rican",
+            "alpha_2_code": "PR",
+            "alpha_3_code": "PRI",
+            "phone_code": "+1-787, +1-939"
+        },
+        {
+            "name": "Qatar",
+            "nationality": "Qatari",
+            "alpha_2_code": "QA",
+            "alpha_3_code": "QAT",
+            "phone_code": "+974"
+        },
+        {
+            "name": "Reunion",
+            "nationality": "French",
+            "alpha_2_code": "RE",
+            "alpha_3_code": "REU",
+            "phone_code": "+262"
+        },
+        {
+            "name": "Romania",
+            "nationality": "Romanian",
+            "alpha_2_code": "RO",
+            "alpha_3_code": "ROU",
+            "phone_code": "+40"
+        },
+        {
+            "name": "Russia",
+            "nationality": "Russian",
+            "alpha_2_code": "RU",
+            "alpha_3_code": "RUS",
+            "phone_code": "+7"
+        },
+        {
+            "name": "Rwanda",
+            "nationality": "Rwandan",
+            "alpha_2_code": "RW",
+            "alpha_3_code": "RWA",
+            "phone_code": "+250"
+        },
+        {
+            "name": "Saint Barthelemy",
+            "nationality": "Saint Barthélemy Islander",
+            "alpha_2_code": "BL",
+            "alpha_3_code": "BLM",
+            "phone_code": "+590"
+        },
+        {
+            "name": "Saint Helena",
+            "nationality": "Saint Helenian",
+            "alpha_2_code": "SH",
+            "alpha_3_code": "SHN",
+            "phone_code": "+290"
+        },
+        {
+            "name": "Saint Kitts and Nevis",
+            "nationality": "Kittitian or Nevisian",
+            "alpha_2_code": "KN",
+            "alpha_3_code": "KNA",
+            "phone_code": "+1-869"
+        },
+        {
+            "name": "Saint Lucia",
+            "nationality": "Saint Lucian",
+            "alpha_2_code": "LC",
+            "alpha_3_code": "LCA",
+            "phone_code": "+1-758"
+        },
+        {
+            "name": "Saint Martin",
+            "nationality": "Saint Martiner",
+            "alpha_2_code": "MF",
+            "alpha_3_code": "MAF",
+            "phone_code": "+590"
+        },
+        {
+            "name": "Saint Pierre and Miquelon",
+            "nationality": "Saint-Pierrais or Miquelonnais",
+            "alpha_2_code": "PM",
+            "alpha_3_code": "SPM",
+            "phone_code": "+508"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "nationality": "Vincentian",
+            "alpha_2_code": "VC",
+            "alpha_3_code": "VCT",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Samoa",
+            "nationality": "Samoan",
+            "alpha_2_code": "WS",
+            "alpha_3_code": "WSM",
+            "phone_code": "+685"
+        },
+        {
+            "name": "San Marino",
+            "nationality": "Sammarinese",
+            "alpha_2_code": "SM",
+            "alpha_3_code": "SMR",
+            "phone_code": "+378"
+        },
+        {
+            "name": "Sao Tome and Principe",
+            "nationality": "Sao Tomean",
+            "alpha_2_code": "ST",
+            "alpha_3_code": "STP",
+            "phone_code": "+239"
+        },
+        {
+            "name": "Saudi Arabia",
+            "nationality": "Saudi Arabian",
+            "alpha_2_code": "SA",
+            "alpha_3_code": "SAU",
+            "phone_code": "+966"
+        },
+        {
+            "name": "Senegal",
+            "nationality": "Senegalese",
+            "alpha_2_code": "SN",
+            "alpha_3_code": "SEN",
+            "phone_code": "+221"
+        },
+        {
+            "name": "Serbia",
+            "nationality": "Serbian",
+            "alpha_2_code": "RS",
+            "alpha_3_code": "SRB",
+            "phone_code": "+381"
+        },
+        {
+            "name": "Seychelles",
+            "nationality": "Seychellois",
+            "alpha_2_code": "SC",
+            "alpha_3_code": "SYC",
+            "phone_code": "+248"
+        },
+        {
+            "name": "Sierra Leone",
+            "nationality": "Sierra Leonean",
+            "alpha_2_code": "SL",
+            "alpha_3_code": "SLE",
+            "phone_code": "+232"
+        },
+        {
+            "name": "Singapore",
+            "nationality": "Singaporean",
+            "alpha_2_code": "SG",
+            "alpha_3_code": "SGP",
+            "phone_code": "+65"
+        },
+        {
+            "name": "Sint Maarten",
+            "nationality": "Sint Maartener",
+            "alpha_2_code": "SX",
+            "alpha_3_code": "SXM",
+            "phone_code": "+1-721"
+        },
+        {
+            "name": "Slovakia",
+            "nationality": "Slovak",
+            "alpha_2_code": "SK",
+            "alpha_3_code": "SVK",
+            "phone_code": "+421"
+        },
+        {
+            "name": "Slovenia",
+            "nationality": "Slovenian",
+            "alpha_2_code": "SI",
+            "alpha_3_code": "SVN",
+            "phone_code": "+386"
+        },
+        {
+            "name": "Solomon Islands",
+            "nationality": "Solomon Islander",
+            "alpha_2_code": "SB",
+            "alpha_3_code": "SLB",
+            "phone_code": "+677"
+        },
+        {
+            "name": "Somalia",
+            "nationality": "Somali",
+            "alpha_2_code": "SO",
+            "alpha_3_code": "SOM",
+            "phone_code": "+252"
+        },
+        {
+            "name": "South Africa",
+            "nationality": "South African",
+            "alpha_2_code": "ZA",
+            "alpha_3_code": "ZAF",
+            "phone_code": "+27"
+        },
+        {
+            "name": "South Georgia and the South Sandwich Islands",
+            "nationality": "British",
+            "alpha_2_code": "GS",
+            "alpha_3_code": "SGS",
+            "phone_code": "+44"
+        },
+        {
+            "name": "South Korea",
+            "nationality": "South Korean",
+            "alpha_2_code": "KR",
+            "alpha_3_code": "KOR",
+            "phone_code": "+82"
+        },
+        {
+            "name": "South Sudan",
+            "nationality": "South Sudanese",
+            "alpha_2_code": "SS",
+            "alpha_3_code": "SSD",
+            "phone_code": "+211"
+        },
+        {
+            "name": "Spain",
+            "nationality": "Spanish",
+            "alpha_2_code": "ES",
+            "alpha_3_code": "ESP",
+            "phone_code": "+34"
+        },
+        {
+            "name": "Sri Lanka",
+            "nationality": "Sri Lankan",
+            "alpha_2_code": "LK",
+            "alpha_3_code": "LKA",
+            "phone_code": "+94"
+        },
+        {
+            "name": "Sudan",
+            "nationality": "Sudanese",
+            "alpha_2_code": "SD",
+            "alpha_3_code": "SDN",
+            "phone_code": "+249"
+        },
+        {
+            "name": "Suriname",
+            "nationality": "Surinamese",
+            "alpha_2_code": "SR",
+            "alpha_3_code": "SUR",
+            "phone_code": "+597"
+        },
+        {
+            "name": "Svalbard and Jan Mayen",
+            "nationality": "Norwegian",
+            "alpha_2_code": "SJ",
+            "alpha_3_code": "SJM",
+            "phone_code": "+47"
+        },
+        {
+            "name": "Swaziland",
+            "nationality": "Swazi",
+            "alpha_2_code": "SZ",
+            "alpha_3_code": "SWZ",
+            "phone_code": "+268"
+        },
+        {
+            "name": "Sweden",
+            "nationality": "Swedish",
+            "alpha_2_code": "SE",
+            "alpha_3_code": "SWE",
+            "phone_code": "+46"
+        },
+        {
+            "name": "Switzerland",
+            "nationality": "Swiss",
+            "alpha_2_code": "CH",
+            "alpha_3_code": "CHE",
+            "phone_code": "+41"
+        },
+        {
+            "name": "Syria",
+            "nationality": "Syrian",
+            "alpha_2_code": "SY",
+            "alpha_3_code": "SYR",
+            "phone_code": "+963"
+        },
+        {
+            "name": "Taiwan",
+            "nationality": "Taiwanese",
+            "alpha_2_code": "TW",
+            "alpha_3_code": "TWN",
+            "phone_code": "+886"
+        },
+        {
+            "name": "Tajikistan",
+            "nationality": "Tajik",
+            "alpha_2_code": "TJ",
+            "alpha_3_code": "TJK",
+            "phone_code": "+992"
+        },
+        {
+            "name": "Tanzania",
+            "nationality": "Tanzanian",
+            "alpha_2_code": "TZ",
+            "alpha_3_code": "TZA",
+            "phone_code": "+255"
+        },
+        {
+            "name": "Thailand",
+            "nationality": "Thai",
+            "alpha_2_code": "TH",
+            "alpha_3_code": "THA",
+            "phone_code": "+66"
+        },
+        {
+            "name": "Timor-Leste",
+            "nationality": "Timorese",
+            "alpha_2_code": "TL",
+            "alpha_3_code": "TLS",
+            "phone_code": "+670"
+        },
+        {
+            "name": "Togo",
+            "nationality": "Togolese",
+            "alpha_2_code": "TG",
+            "alpha_3_code": "TGO",
+            "phone_code": "+228"
+        },
+        {
+            "name": "Tokelau",
+            "nationality": "Tokelauans",
+            "alpha_2_code": "TK",
+            "alpha_3_code": "TKL",
+            "phone_code": "+690"
+        },
+        {
+            "name": "Tonga",
+            "nationality": "Tongan",
+            "alpha_2_code": "TO",
+            "alpha_3_code": "TON",
+            "phone_code": "+676"
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "nationality": "Trinidadian/Tobagonian",
+            "alpha_2_code": "TT",
+            "alpha_3_code": "TTO",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Tunisia",
+            "nationality": "Tunisian",
+            "alpha_2_code": "TN",
+            "alpha_3_code": "TUN",
+            "phone_code": "+216"
+        },
+        {
+            "name": "Turkey",
+            "nationality": "Turkish",
+            "alpha_2_code": "TR",
+            "alpha_3_code": "TUR",
+            "phone_code": "+90"
+        },
+        {
+            "name": "Turkmenistan",
+            "nationality": "Turkmen",
+            "alpha_2_code": "TM",
+            "alpha_3_code": "TKM",
+            "phone_code": "+993"
+        },
+        {
+            "name": "Turks and Caicos Islands",
+            "nationality": "British",
+            "alpha_2_code": "TC",
+            "alpha_3_code": "TCA",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Tuvalu",
+            "nationality": "Tuvaluan",
+            "alpha_2_code": "TV",
+            "alpha_3_code": "TUV",
+            "phone_code": "+688"
+        },
+        {
+            "name": "Uganda",
+            "nationality": "Ugandan",
+            "alpha_2_code": "UG",
+            "alpha_3_code": "UGA",
+            "phone_code": "+256"
+        },
+        {
+            "name": "Ukraine",
+            "nationality": "Ukrainian",
+            "alpha_2_code": "UA",
+            "alpha_3_code": "UKR",
+            "phone_code": "+380"
+        },
+        {
+            "name": "United Arab Emirates",
+            "nationality": "Emirati",
+            "alpha_2_code": "AE",
+            "alpha_3_code": "ARE",
+            "phone_code": "+971"
+        },
+        {
+            "name": "United Kingdom",
+            "nationality": "British",
+            "alpha_2_code": "GB",
+            "alpha_3_code": "GBR",
+            "phone_code": "+44"
+        },
+        {
+            "name": "United States",
+            "nationality": "American",
+            "alpha_2_code": "US",
+            "alpha_3_code": "USA",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Uruguay",
+            "nationality": "Uruguayan",
+            "alpha_2_code": "UY",
+            "alpha_3_code": "URY",
+            "phone_code": "+598"
+        },
+        {
+            "name": "Uzbekistan",
+            "nationality": "Uzbek",
+            "alpha_2_code": "UZ",
+            "alpha_3_code": "UZB",
+            "phone_code": "+998"
+        },
+        {
+            "name": "Vanuatu",
+            "nationality": "Ni-Vanuatu",
+            "alpha_2_code": "VU",
+            "alpha_3_code": "VUT",
+            "phone_code": "+678"
+        },
+        {
+            "name": "Vatican City",
+            "nationality": "Italian",
+            "alpha_2_code": "VA",
+            "alpha_3_code": "VAT",
+            "phone_code": "+379"
+        },
+        {
+            "name": "Venezuela",
+            "nationality": "Venezuelan",
+            "alpha_2_code": "VE",
+            "alpha_3_code": "VEN",
+            "phone_code": "+58"
+        },
+        {
+            "name": "Vietnam",
+            "nationality": "Vietnamese",
+            "alpha_2_code": "VN",
+            "alpha_3_code": "VNM",
+            "phone_code": "+84"
+        },
+        {
+            "name": "Virgin Islands (British)",
+            "nationality": "British",
+            "alpha_2_code": "VG",
+            "alpha_3_code": "VGB",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Virgin Islands (U.S.)",
+            "nationality": "American",
+            "alpha_2_code": "VI",
+            "alpha_3_code": "VIR",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Wallis and Futuna",
+            "nationality": "French",
+            "alpha_2_code": "WF",
+            "alpha_3_code": "WLF",
+            "phone_code": "+681"
+        },
+        {
+            "name": "Western Sahara",
+            "nationality": "Sahrawi",
+            "alpha_2_code": "EH",
+            "alpha_3_code": "ESH",
+            "phone_code": "+212"
+        },
+        {
+            "name": "Yemen",
+            "nationality": "Yemeni",
+            "alpha_2_code": "YE",
+            "alpha_3_code": "YEM",
+            "phone_code": "+967"
+        },
+        {
+            "name": "Zambia",
+            "nationality": "Zambian",
+            "alpha_2_code": "ZM",
+            "alpha_3_code": "ZMB",
+            "phone_code": "+260"
+        },
+        {
+            "name": "Zimbabwe",
+            "nationality": "Zimbabwean",
+            "alpha_2_code": "ZW",
+            "alpha_3_code": "ZWE",
+            "phone_code": "+263"
+        }
+    ]
+}
